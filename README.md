@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @HosenSchisser
+- 👀 German C#, py Developer!
+- 📫 Discord: vytx#8331 Telegram: @vytx187
